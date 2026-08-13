@@ -1,0 +1,6 @@
+{
+  "name": "Tiong Hoe Specialty Coffee",
+  "description": "Artisanal specialty coffee roaster e-commerce, coffee capsules, pickup ordering, and coffee buying guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
